@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## live link
+[live link demo (https://anime-app-plum.vercel.app/)]
 
 ## Available Scripts
 
