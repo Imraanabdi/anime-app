@@ -1,7 +1,7 @@
-# Getting Started with Create React App
-
 ## live link
-[live link demo (https://anime-app-plum.vercel.app/)]
+[live link demo('https://anime-app-plum.vercel.app/')]
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
