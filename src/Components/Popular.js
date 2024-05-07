@@ -6,6 +6,7 @@ import Sidebar from './Sidebar'
 
 function Popular({rendered}) {
     const {popularAnime,isSearch, searchResults} = useGlobalContext()
+    
 
     const conditionalRender = () => {
         if(!isSearch && rendered === 'popular'){
