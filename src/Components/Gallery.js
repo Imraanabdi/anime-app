@@ -84,6 +84,7 @@ const GalleryStyled = styled.div`
         }
     }
 
+
     .small-images{
         display: flex;
         flex-wrap: wrap;
